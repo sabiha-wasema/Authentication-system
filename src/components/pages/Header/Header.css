@@ -1,0 +1,33 @@
+.navbar {
+  background-color: black;
+}
+.container {
+  padding: 10px 0px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.navbar-brand {
+  margin-right: 500px;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+.navbar-collapse li {
+  list-style: none;
+}
+.navbar-nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.navbar-nav li a {
+  margin-right: 30px;
+}
+.signout-btn {
+  padding: 5px 15px;
+  border-radius: 50px;
+}

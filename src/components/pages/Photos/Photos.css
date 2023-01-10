@@ -1,0 +1,15 @@
+.user-title {
+  text-align: center;
+  margin-top: 50px;
+}
+.user-title span {
+  color: brown;
+  font-size: 40px;
+  font-family: 'Playfair Display', serif;
+}
+.user-container {
+  padding: 20px 80px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}

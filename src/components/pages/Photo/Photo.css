@@ -1,0 +1,60 @@
+.user-detail-container {
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.user-detail-container img {
+  margin-top: 10px;
+  padding: 0;
+  height: 170px;
+  width: 300px;
+  border-radius: 10px;
+}
+.user-detail-container h4 {
+  text-align: left;
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.user-detail-container p {
+  text-align: left;
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.user-detail-container span {
+  /* color: brown; */
+  margin-right: 10px;
+  font-size: 22px;
+  font-family: 'Playfair Display', serif;
+  /* color: white; */
+  text-shadow: 2px 2px 5px red;
+  /* text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue; */
+}
+.user-detail-container button {
+  margin-top: 20px;
+  padding: 10px 70px;
+  background-color: rgb(146, 76, 27);
+  border-radius: 20px;
+  color: aliceblue;
+  font-size: 16px;
+  border: none;
+}
+.user-detail-container button:hover {
+  color: black;
+  background-color: orange;
+}
+.country-region {
+  display: flex;
+  margin-top: 0;
+}
+.country-region span {
+  font-size: 17px;
+}
+.country-region p {
+  font-size: 17px;
+  margin-right: 8px;
+}

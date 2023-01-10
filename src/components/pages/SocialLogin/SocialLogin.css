@@ -1,0 +1,30 @@
+.fa-google {
+  font-size: 23px;
+  color: #000;
+  margin-right: 8px;
+}
+.error-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: red;
+}
+.social-login-container button {
+  margin-top: 18px;
+  border: none;
+  background-color: tomato;
+  padding: 11px 80px;
+  border-radius: 30px;
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: none;
+  color: #000;
+}
+.social-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-login-container button:hover {
+  background-color: rgba(184, 40, 15, 0.897);
+}
